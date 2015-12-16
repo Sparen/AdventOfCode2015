@@ -8,3 +8,4 @@ Advent of Code 2015 - http://adventofcode.com
 ## Languages used:
  - Day 1 - Java
  - Day 2 - Java
+ - Day 3 - Java
